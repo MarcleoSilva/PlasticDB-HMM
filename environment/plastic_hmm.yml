@@ -1,0 +1,12 @@
+name: plastic_hmms
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - biopython
+  - cd-hit
+  - blast
+  - hmmer
+  - requests
