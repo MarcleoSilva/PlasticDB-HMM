@@ -1,0 +1,82 @@
+>Cluster 0
+0	639aa, >00010||PVA_dehydrog... *
+>Cluster 1
+0	635aa, >00012||PHB_depolyme... *
+>Cluster 2
+0	617aa, >00016||Polyurethane... *
+1	617aa, >00021||Polyurethane... at 100.00%
+2	616aa, >00041||Polyurethana... at 100.00%
+>Cluster 3
+0	603aa, >00028||PHB_depolyme... *
+>Cluster 4
+0	590aa, >00039||PHB_depolyme... *
+>Cluster 5
+0	578aa, >00026||PHB_depolyme... *
+>Cluster 6
+0	576aa, >00018||PHB_depolyme... *
+>Cluster 7
+0	567aa, >00006||PHB_depolyme... *
+>Cluster 8
+0	567aa, >00023||Polyurethana... *
+1	567aa, >00046||Polyurethana... at 100.00%
+>Cluster 9
+0	553aa, >00032||PEG_dehydrog... *
+>Cluster 10
+0	548aa, >00013||PU_esterase_... *
+>Cluster 11
+0	513aa, >00017||PHB_depolyme... *
+>Cluster 12
+0	495aa, >00025||PHB_depolyme... *
+>Cluster 13
+0	494aa, >00011||PHB_depolyme... *
+1	494aa, >00015||PHB_depolyme... at 100.00%
+>Cluster 14
+0	492aa, >00001||PHB_depolyme... *
+>Cluster 15
+0	492aa, >00029||PHA_depolyme... *
+1	492aa, >00030||PHB_depolyme... at 100.00%
+2	492aa, >00031||PHB_depolyme... at 100.00%
+>Cluster 16
+0	491aa, >00014||PHB_depolyme... *
+>Cluster 17
+0	488aa, >00019||PHB_depolyme... *
+>Cluster 18
+0	467aa, >00035||PEG_aldehyde... *
+>Cluster 19
+0	433aa, >00003||PHB_depolyme... *
+>Cluster 20
+0	433aa, >00005||PHA_depolyme... *
+>Cluster 21
+0	431aa, >00049||PLA_depolyme... *
+1	419aa, >00050||PLA_depolyme... at 95.23%
+>Cluster 22
+0	419aa, >00007||PHB_depolyme... *
+>Cluster 23
+0	414aa, >00004||PHB_depolyme... *
+>Cluster 24
+0	392aa, >00043||Nylon_Oligom... *
+>Cluster 25
+0	392aa, >00044||Nylon_Oligom... *
+>Cluster 26
+0	379aa, >00022||Oxidized_PVA... *
+>Cluster 27
+0	364aa, >00033||PVA_hydrolas... *
+>Cluster 28
+0	338aa, >00048||PLA_depolyme... *
+>Cluster 29
+0	306aa, >00042||Nylon_Oligom... *
+>Cluster 30
+0	304aa, >00024||PBS_depolyme... *
+>Cluster 31
+0	283aa, >00047||PLA_depolyme... *
+>Cluster 32
+0	278aa, >00002||PHA_depolyme... *
+>Cluster 33
+0	277aa, >00036||MCL_PHA_depo... *
+>Cluster 34
+0	238aa, >00037||Cutinase||Cr... *
+>Cluster 35
+0	231aa, >00008||Cutinase||Fu... *
+1	231aa, >00009||Cutinase||Fu... at 98.70%
+>Cluster 36
+0	201aa, >00027||PLA_depolyme... *
